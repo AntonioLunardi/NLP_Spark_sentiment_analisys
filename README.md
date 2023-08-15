@@ -3,7 +3,7 @@ A bag of words analisys based on IMDB movie opinions with PySpark
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Stocks and cryptocurrencies with Kubernetes and Celery operators of Apache Airflow**
+| :sparkles: Nome        | **Sentiment analysis with NLP and PySpark**
 | :label: Tecnologias | NLP, PySpark, Python
 
 
